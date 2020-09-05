@@ -1,0 +1,38 @@
+﻿
+    public enum levels
+    {
+        level1  = 1,
+        level2  = 2,
+        level3  = 3,
+        level4  = 4,
+        level5  = 5,
+        level6  = 6,
+        level7  = 7,
+        level8  = 8,
+        level9  = 9,
+        level10 = 10,
+        level11 = 11,
+        level12 = 12,
+        level13 = 13,
+        level14 = 14,
+        level15 = 15,
+        level16 = 16,
+        level17 = 17,
+        level18 = 18,
+        level19 = 19,
+        level20 = 20,
+        level21 = 21,
+        level22 = 22,
+        level23 = 23,
+        level24 = 24,
+        level25 = 25,
+        level26 = 26,
+        level27 = 27,
+        level28 = 28,
+        level29 = 29,
+        level30 = 30,
+        level31 = 31,
+        level32 = 32,
+        level33 = 33                        // this is only for loop there no data for it
+    }
+
